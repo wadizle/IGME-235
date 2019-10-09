@@ -1,10 +1,10 @@
 # References:
 [Perfection Image](https://images-na.ssl-images-amazon.com/images/I/51oP1KMR9SL.jpg)
-["Easy" Image]https://cdn2.vectorstock.com/i/thumb-large/43/11/easy-stamp-vector-16684311.jpg
-[Coming Soon Image]https://cdn2-www.comingsoon.net/wp-content/themes/comingsoon/images/cs_default_image.jpg
-[Coolers]https://coolors.co/
-[W3Schools Gradients]https://www.w3schools.com/css/css3_gradients.asp
-[W3Schools Borders]https://www.w3schools.com/css/css3_borders.asp
+["Easy" Image](https://cdn2.vectorstock.com/i/thumb-large/43/11/easy-stamp-vector-16684311.jpg)
+[Coming Soon Image](https://cdn2-www.comingsoon.net/wp-content/themes/comingsoon/images/cs_default_image.jpg)
+[Coolers](https://coolors.co/)
+[W3Schools Gradients](https://www.w3schools.com/css/css3_gradients.asp)
+[W3Schools Borders](https://www.w3schools.com/css/css3_borders.asp)
 
 # Process:
 I took a more top-down approach to creating this website and started by laying out the overall grid organization. I then went from section to section filling in content and then attempting to make it look better. Lastly, I added a few features to give the page a more responsive design.
