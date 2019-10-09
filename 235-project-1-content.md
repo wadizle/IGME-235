@@ -1,9 +1,14 @@
 # References:
 [Perfection Image](https://images-na.ssl-images-amazon.com/images/I/51oP1KMR9SL.jpg)
+
 ["Easy" Image](https://cdn2.vectorstock.com/i/thumb-large/43/11/easy-stamp-vector-16684311.jpg)
+
 [Coming Soon Image](https://cdn2-www.comingsoon.net/wp-content/themes/comingsoon/images/cs_default_image.jpg)
+
 [Coolers](https://coolors.co/)
+
 [W3Schools Gradients](https://www.w3schools.com/css/css3_gradients.asp)
+
 [W3Schools Borders](https://www.w3schools.com/css/css3_borders.asp)
 
 # Process:
