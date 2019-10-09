@@ -29,9 +29,6 @@ The game will be minimalist with basic graphics and sounds. Sounds will play upo
 # Gameplay:
 The user has sixty seconds to click and drag each shape to its corresponding slot. If the user correctly places a piece the remaining slots will shuffle and change locations. If the user manages to get all pieces to the correct location in time they win.
 
-# Screenshots:
-(Images)
-
 # About the Developer:
 My name is Brandon Waddill, I am a second year majoring in Game Design and Development. My skills primarily lie in programming, espcially in languages such as C# and C. While I enjoy programming user experiences, I also love other aspects of coding such as database management with SQL.
 
