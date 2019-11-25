@@ -2,13 +2,13 @@
 At the beginning, I focused primarily on the backend of the projects, starting with the javascript and ensuring all the data was loaded and easily accessible. From there, I started to work away at the frontend, ensuring information was displayed in a way that made sense, was easy to use, and did not look horrible.
 
 # Sources:
-W3Schools
-
-Past IGME 235 Assignments
+[W3Schools](https://www.w3schools.com/)
 
 [Header Image Link](http://maplelanes.com/rvc/wp-content/uploads/sites/2/2018/05/food-and-bevarge-header.jpg)
 
 [The MealDB Api](https://www.themealdb.com/api.php)
+
+Past IGME 235 Assignments
 
 # Things To Look At:
 Not quite sure what to say here as hopefully everything is relatively self explanitory. The least clear feature is that clicking on meals will result in another request to the API that gets more data and displays the information at the top of the page. The layout varies slightly depending on how many ingredients there are.
